@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vijay-V-V
 - 👀 I’m interested in Data Science and Remote Sensing/GIS
 - 🌱 I’m currently learning MSc Data Science from University of Kerala, India
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on internships and projects on data science
 - 📫 How to reach me 
           Email: vvenkiteshvijay@gmail.com,
                  vvenkiteshvijay@outlook.com
