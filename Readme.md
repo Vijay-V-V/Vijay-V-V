@@ -1,11 +1,8 @@
 - 👋 Hi, I’m @Vijay-V-V
-- 👀 I’m interested in Data Science and Remote Sensing/GIS
-- 🌱 I’m currently learning MSc Data Science from University of Kerala, India
-- 💞️ I’m looking to collaborate on internships and projects on data science
+- 👀 I’m interested in Social Network Analysis and Complex Systems.
+- 🌱 I am working as a Research Associate at the Indian Institute of Management, Ahmedabad.
 - 📫 How to reach me 
-          Email: vvenkiteshvijay@gmail.com,
-                 vvenkiteshvijay@outlook.com
-          Phone no: +91 8136814648
+          Email: vvenkiteshvijay@outlook.com
 
 <!---
 Vijay-V-V/Vijay-V-V is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
